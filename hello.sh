@@ -1,4 +1,6 @@
 #!/bin/bash
 
-echo "Hello World"
-echo "---------------------------------"
+for i in {1..100}
+do
+  echo $i >> numbers.txt
+done
