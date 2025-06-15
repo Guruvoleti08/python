@@ -1,4 +1,5 @@
-#!/bin/bash
+ #!/bin/bash
+ set -x
 
 # Initialize variables
 count=1
